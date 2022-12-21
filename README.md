@@ -1,0 +1,2 @@
+# Statistics_Simulations
+This is a collection of the R code simulations I have written for homework problems in statistics courses. Most of these were written for checking answers or doing other tests. Descriptions of the problems are included at the top of each file. STT 441 used the textbook "Introduction to Probability" by David F. Anderson, Timo Seppalainen, and Benedek Valko. STT 886 used the textbook "Introduction to Probability Models", 10th edition, by Sheldon M. Ross.
